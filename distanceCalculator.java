@@ -1,5 +1,5 @@
-import java.util.Scanner;/*Importing the Scanner class so 
-							as to be able to take the input from the user.*/
+import java.util.Scanner;//Importing the Scanner class so as to be able to take the input from the user.
+
 public class distanceCalculator {
 	public static void main(String[] args) {
 		Scanner newScanner = new Scanner(System.in);// I am creating a Scanner object for the user input.
